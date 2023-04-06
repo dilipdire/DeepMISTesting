@@ -18,7 +18,9 @@ public class PrintDuplicate {
 			}
 		}
 		System.out.print(hm);
+		System.out.println("---Done--------");
 
 	}
-
+	
+	
 }
